@@ -1,8 +1,14 @@
-# React + Vite
+# To-do app test using Redux and RTK
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CSS Library - Tailwind
 
-Currently, two official plugins are available:
+### Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Add your 'to-do' to the list
+2. Delete any to-do as per choice
+
+### To be added
+
+1. Update button functionality
+2. Checkbox to cross off finished to do
+3. Add dates to each to-do
